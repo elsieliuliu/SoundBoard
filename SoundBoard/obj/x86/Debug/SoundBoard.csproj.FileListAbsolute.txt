@@ -1,0 +1,90 @@
+\\Mac\Home\Documents\Elsie's Coding\SoundBoard\SoundBoard\bin\x86\Debug\App.xbf
+\\Mac\Home\Documents\Elsie's Coding\SoundBoard\SoundBoard\bin\x86\Debug\MainPage.xbf
+\\Mac\Home\Documents\Elsie's Coding\SoundBoard\SoundBoard\bin\x86\Debug\SoundBoard.xr.xml
+\\Mac\Home\Documents\Elsie's Coding\SoundBoard\SoundBoard\bin\x86\Debug\SoundBoard.exe
+\\Mac\Home\Documents\Elsie's Coding\SoundBoard\SoundBoard\bin\x86\Debug\SoundBoard.pdb
+\\Mac\Home\Documents\Elsie's Coding\SoundBoard\SoundBoard\bin\x86\Debug\resources.pri
+\\Mac\Home\Documents\Elsie's Coding\SoundBoard\SoundBoard\bin\x86\Debug\AppxManifest.xml
+\\Mac\Home\Documents\Elsie's Coding\SoundBoard\SoundBoard\bin\x86\Debug\Core\AppxManifest.xml
+\\Mac\Home\Documents\Elsie's Coding\SoundBoard\SoundBoard\bin\x86\Debug\Core\SoundBoard.exe
+\\Mac\Home\Documents\Elsie's Coding\SoundBoard\SoundBoard\bin\x86\Debug\SoundBoard.build.appxrecipe
+\\Mac\Home\Documents\Elsie's Coding\SoundBoard\SoundBoard\bin\x86\Debug\System.Runtime.dll
+\\Mac\Home\Documents\Elsie's Coding\SoundBoard\SoundBoard\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+\\Mac\Home\Documents\Elsie's Coding\SoundBoard\SoundBoard\obj\x86\Debug\SoundBoard.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\Elsie's Coding\SoundBoard\SoundBoard\obj\x86\Debug\App.g.i.cs
+\\Mac\Home\Documents\Elsie's Coding\SoundBoard\SoundBoard\obj\x86\Debug\App.g.cs
+\\Mac\Home\Documents\Elsie's Coding\SoundBoard\SoundBoard\obj\x86\Debug\MainPage.g.i.cs
+\\Mac\Home\Documents\Elsie's Coding\SoundBoard\SoundBoard\obj\x86\Debug\MainPage.g.cs
+\\Mac\Home\Documents\Elsie's Coding\SoundBoard\SoundBoard\obj\x86\Debug\XamlTypeInfo.g.cs
+\\Mac\Home\Documents\Elsie's Coding\SoundBoard\SoundBoard\obj\x86\Debug\App.xaml
+\\Mac\Home\Documents\Elsie's Coding\SoundBoard\SoundBoard\obj\x86\Debug\MainPage.xaml
+\\Mac\Home\Documents\Elsie's Coding\SoundBoard\SoundBoard\obj\x86\Debug\App.xbf
+\\Mac\Home\Documents\Elsie's Coding\SoundBoard\SoundBoard\obj\x86\Debug\MainPage.xbf
+\\Mac\Home\Documents\Elsie's Coding\SoundBoard\SoundBoard\obj\x86\Debug\XamlSaveStateFile.xml
+\\Mac\Home\Documents\Elsie's Coding\SoundBoard\SoundBoard\obj\x86\Debug\SoundBoard.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Elsie's Coding\SoundBoard\SoundBoard\obj\x86\Debug\SoundBoard.csproj.CopyComplete
+\\Mac\Home\Documents\Elsie's Coding\SoundBoard\SoundBoard\obj\x86\Debug\SoundBoard.exe
+\\Mac\Home\Documents\Elsie's Coding\SoundBoard\SoundBoard\obj\x86\Debug\SoundBoard.pdb
+\\Mac\Home\Documents\Elsie's Coding\SoundBoard\SoundBoard\obj\x86\Debug\ResourceHandlingTask.state
+\\Mac\Home\Documents\Elsie's Coding\SoundBoard\SoundBoard\obj\x86\Debug\priconfig.xml
+\\Mac\Home\Documents\Elsie's Coding\SoundBoard\SoundBoard\obj\x86\Debug\priconfig.xml.intermediate
+\\Mac\Home\Documents\Elsie's Coding\SoundBoard\SoundBoard\obj\x86\Debug\unfiltered.layout.resfiles
+\\Mac\Home\Documents\Elsie's Coding\SoundBoard\SoundBoard\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+\\Mac\Home\Documents\Elsie's Coding\SoundBoard\SoundBoard\obj\x86\Debug\filtered.layout.resfiles
+\\Mac\Home\Documents\Elsie's Coding\SoundBoard\SoundBoard\obj\x86\Debug\filtered.layout.resfiles.intermediate
+\\Mac\Home\Documents\Elsie's Coding\SoundBoard\SoundBoard\obj\x86\Debug\excluded.layout.resfiles
+\\Mac\Home\Documents\Elsie's Coding\SoundBoard\SoundBoard\obj\x86\Debug\excluded.layout.resfiles.intermediate
+\\Mac\Home\Documents\Elsie's Coding\SoundBoard\SoundBoard\obj\x86\Debug\resources.resfiles
+\\Mac\Home\Documents\Elsie's Coding\SoundBoard\SoundBoard\obj\x86\Debug\resources.resfiles.intermediate
+\\Mac\Home\Documents\Elsie's Coding\SoundBoard\SoundBoard\obj\x86\Debug\pri.resfiles
+\\Mac\Home\Documents\Elsie's Coding\SoundBoard\SoundBoard\obj\x86\Debug\pri.resfiles.intermediate
+\\Mac\Home\Documents\Elsie's Coding\SoundBoard\SoundBoard\obj\x86\Debug\qualifiers.txt
+\\Mac\Home\Documents\Elsie's Coding\SoundBoard\SoundBoard\obj\x86\Debug\qualifiers.txt.intermediate
+\\Mac\Home\Documents\Elsie's Coding\SoundBoard\SoundBoard\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+\\Mac\Home\Documents\Elsie's Coding\SoundBoard\SoundBoard\obj\x86\Debug\ProjectArchitectures.txt
+\\Mac\Home\Documents\Elsie's Coding\SoundBoard\SoundBoard\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637874721720000000.json
+C:\Kal_Projects\SoundBoard\SoundBoard\bin\x86\Debug\App.xbf
+C:\Kal_Projects\SoundBoard\SoundBoard\bin\x86\Debug\MainPage.xbf
+C:\Kal_Projects\SoundBoard\SoundBoard\bin\x86\Debug\SoundBoard.xr.xml
+C:\Kal_Projects\SoundBoard\SoundBoard\bin\x86\Debug\SoundBoard.exe
+C:\Kal_Projects\SoundBoard\SoundBoard\bin\x86\Debug\SoundBoard.pdb
+C:\Kal_Projects\SoundBoard\SoundBoard\bin\x86\Debug\resources.pri
+C:\Kal_Projects\SoundBoard\SoundBoard\bin\x86\Debug\AppxManifest.xml
+C:\Kal_Projects\SoundBoard\SoundBoard\bin\x86\Debug\Core\AppxManifest.xml
+C:\Kal_Projects\SoundBoard\SoundBoard\bin\x86\Debug\Core\SoundBoard.exe
+C:\Kal_Projects\SoundBoard\SoundBoard\bin\x86\Debug\SoundBoard.build.appxrecipe
+C:\Kal_Projects\SoundBoard\SoundBoard\bin\x86\Debug\System.Runtime.dll
+C:\Kal_Projects\SoundBoard\SoundBoard\bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Kal_Projects\SoundBoard\SoundBoard\obj\x86\Debug\SoundBoard.csproj.AssemblyReference.cache
+C:\Kal_Projects\SoundBoard\SoundBoard\obj\x86\Debug\App.g.i.cs
+C:\Kal_Projects\SoundBoard\SoundBoard\obj\x86\Debug\App.g.cs
+C:\Kal_Projects\SoundBoard\SoundBoard\obj\x86\Debug\MainPage.g.i.cs
+C:\Kal_Projects\SoundBoard\SoundBoard\obj\x86\Debug\MainPage.g.cs
+C:\Kal_Projects\SoundBoard\SoundBoard\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Kal_Projects\SoundBoard\SoundBoard\obj\x86\Debug\App.xaml
+C:\Kal_Projects\SoundBoard\SoundBoard\obj\x86\Debug\MainPage.xaml
+C:\Kal_Projects\SoundBoard\SoundBoard\obj\x86\Debug\App.xbf
+C:\Kal_Projects\SoundBoard\SoundBoard\obj\x86\Debug\MainPage.xbf
+C:\Kal_Projects\SoundBoard\SoundBoard\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Kal_Projects\SoundBoard\SoundBoard\obj\x86\Debug\SoundBoard.csproj.CoreCompileInputs.cache
+C:\Kal_Projects\SoundBoard\SoundBoard\obj\x86\Debug\SoundBoard.csproj.CopyComplete
+C:\Kal_Projects\SoundBoard\SoundBoard\obj\x86\Debug\SoundBoard.exe
+C:\Kal_Projects\SoundBoard\SoundBoard\obj\x86\Debug\SoundBoard.pdb
+C:\Kal_Projects\SoundBoard\SoundBoard\obj\x86\Debug\ResourceHandlingTask.state
+C:\Kal_Projects\SoundBoard\SoundBoard\obj\x86\Debug\priconfig.xml
+C:\Kal_Projects\SoundBoard\SoundBoard\obj\x86\Debug\priconfig.xml.intermediate
+C:\Kal_Projects\SoundBoard\SoundBoard\obj\x86\Debug\unfiltered.layout.resfiles
+C:\Kal_Projects\SoundBoard\SoundBoard\obj\x86\Debug\unfiltered.layout.resfiles.intermediate
+C:\Kal_Projects\SoundBoard\SoundBoard\obj\x86\Debug\filtered.layout.resfiles
+C:\Kal_Projects\SoundBoard\SoundBoard\obj\x86\Debug\filtered.layout.resfiles.intermediate
+C:\Kal_Projects\SoundBoard\SoundBoard\obj\x86\Debug\excluded.layout.resfiles
+C:\Kal_Projects\SoundBoard\SoundBoard\obj\x86\Debug\excluded.layout.resfiles.intermediate
+C:\Kal_Projects\SoundBoard\SoundBoard\obj\x86\Debug\resources.resfiles
+C:\Kal_Projects\SoundBoard\SoundBoard\obj\x86\Debug\resources.resfiles.intermediate
+C:\Kal_Projects\SoundBoard\SoundBoard\obj\x86\Debug\pri.resfiles
+C:\Kal_Projects\SoundBoard\SoundBoard\obj\x86\Debug\pri.resfiles.intermediate
+C:\Kal_Projects\SoundBoard\SoundBoard\obj\x86\Debug\qualifiers.txt
+C:\Kal_Projects\SoundBoard\SoundBoard\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Kal_Projects\SoundBoard\SoundBoard\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Kal_Projects\SoundBoard\SoundBoard\obj\x86\Debug\ProjectArchitectures.txt
+C:\Kal_Projects\SoundBoard\SoundBoard\obj\x86\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637874721720000000.json

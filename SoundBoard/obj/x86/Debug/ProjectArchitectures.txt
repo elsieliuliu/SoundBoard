@@ -1,0 +1,1 @@
+C:\Kal_Projects\SoundBoard\SoundBoard\SoundBoard.csproj;x86
